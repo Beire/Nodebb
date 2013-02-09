@@ -1,252 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20be9159-31bd-4b5b-b24f-2e2b5ad810a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Beire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/app-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/bootstrap-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mongoose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/schemas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/nodebb.js" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\.bin\twitter-bootstrap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\bin\twitter-bootstrap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\public\images\bootstrap\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\public\images\bootstrap\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\public\stylesheets\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\public\stylesheets\style.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\routes\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\accordion.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\close.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\code.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\hero-unit.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\labels-badges.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\layouts.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\modals.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\navs.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\pager.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\reset.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\responsive-1200px-min.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\responsive-767px-max.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\responsive-768px-979px.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\responsive-navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\sprites.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\tables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\tests\css-tests.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\tests\css-tests.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\tests\forms.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\tests\navbar.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\type.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\vendor\twitter\bootstrap\less\wells.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\views\index.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\hoge\views\layout.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\LICENSE.APACHE2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\LICENSE.MIT" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\fs.copy-recursive.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\fs.copy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\fs.extra.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\fs.move.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\Cakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\lib\copy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\lib\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\lib\mkdir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\lib\remove.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\.bin\ncp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\bin\ncp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\hahaha" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\laull" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\lib\ncp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\mode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\a" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\b" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\d" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\e" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\f" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\sub\a" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\fixtures\src\sub\b" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\ncp\test\ncp-test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\AUTHORS" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\fiber.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\rimraf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\test\run.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\test\setup.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\test\test-async.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\test\test-fiber.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\node_modules\rimraf\test\test-sync.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\src\copy.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\src\index.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\src\mkdir.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\src\remove.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\test\copy.test.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\test\mkdir.test.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\test\mocha.opts" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\fs-extra\test\remove.test.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\node-type-emitter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\node_modules\forEachAsync\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\node_modules\forEachAsync\forEachAsync.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\node_modules\forEachAsync\node_modules\sequence\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\node_modules\forEachAsync\node_modules\sequence\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\node_modules\forEachAsync\node_modules\sequence\sequence.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\node_modules\forEachAsync\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\walk-async-only.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\node_modules\walk\walk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\fs.extra\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\.gitignore.orig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\.gitignore.rej" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\examples\pow.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\examples\pow.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\examples\pow.js.rej" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\chmod.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\clobber.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\mkdirp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\perm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\perm_sync.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\race.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\rel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\sync.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\umask.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\node_modules\mkdirp\test\umask_sync.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\img\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\img\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-alert.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-button.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-popover.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-tab.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\bootstrap-typeahead.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\phantom.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\server.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-alert.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-button.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-phantom.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-popover.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-tab.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\unit\bootstrap-typeahead.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\vendor\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\vendor\qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\js\tests\vendor\qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\accordion.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\close.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\code.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\hero-unit.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\labels-badges.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\layouts.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\modals.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\navs.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\pager.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\reset.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\responsive-1200px-min.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\responsive-767px-max.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\responsive-768px-979px.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\responsive-navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\sprites.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\tables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\tests\css-tests.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\tests\css-tests.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\tests\forms.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\tests\navbar.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\type.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\node_modules\twitter-bootstrap-node\vendor\bootstrap\less\wells.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\routes\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\routes\user.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Beire\Documents\GitHub\Nodebb\public\stylesheets\style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/nodebb.iml" afterPath="$PROJECT_DIR$/.idea/nodebb.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jquery/node_modules/jsdom/lib/jsdom/level2/style.js" afterPath="$PROJECT_DIR$/node_modules/jquery/node_modules/jsdom/lib/jsdom/level2/style.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/package.json" afterPath="$PROJECT_DIR$/node_modules/mongodb/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/node_modules/mongodb/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
-    </list>
+    <list default="true" id="20be9159-31bd-4b5b-b24f-2e2b5ad810a6" name="Default" comment="" />
     <ignored path="nodebb.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -347,148 +102,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mongoose" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mongoose" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nodebb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -533,23 +146,28 @@
       <created>1358543917531</created>
       <updated>1358543917531</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added configuration , bootstrap data and modified app.js">
+      <created>1360424920527</created>
+      <updated>1360424920527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20979021" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20979021" sideWeight="0.81164384" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18835616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
